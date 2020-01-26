@@ -1,0 +1,9 @@
+G:\Программирование\С#\Reflection.Randomness.csproj\bin\Debug\Reflection.Randomness.exe.config
+G:\Программирование\С#\Reflection.Randomness.csproj\bin\Debug\Reflection.Randomness.exe
+G:\Программирование\С#\Reflection.Randomness.csproj\bin\Debug\Reflection.Randomness.pdb
+G:\Программирование\С#\Reflection.Randomness.csproj\bin\Debug\nunit.framework.dll
+G:\Программирование\С#\Reflection.Randomness.csproj\bin\Debug\nunitlite.dll
+G:\Программирование\С#\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.csprojAssemblyReference.cache
+G:\Программирование\С#\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.csproj.CopyComplete
+G:\Программирование\С#\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.exe
+G:\Программирование\С#\Reflection.Randomness.csproj\obj\Debug\Reflection.Randomness.pdb
